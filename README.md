@@ -8,6 +8,6 @@ This repo has been entirely pushed by github copilot cli. Had a blast changing n
 `copilot`
 
 ### Why github copilot cli?
-> Lesser mistakes
-> No data loss (or code loss)
-> Easy to commit, create a pull request or push changes to repo
+> 1. Lesser mistakes\n
+> 2. No data loss (or code loss)\n
+> 3. Easy to commit, create a pull request or push changes to repo\n
