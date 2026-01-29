@@ -4,5 +4,10 @@ This repo has been entirely pushed by github copilot cli. Had a blast changing n
 ## Installation
 `brew install copilot-cli`
 
-### Run copilot in bash
+## Run copilot in bash
 `copilot`
+
+### Why github copilot cli?
+> Lesser mistakes
+> No data loss (or code loss)
+> Easy to commit, create a pull request or push changes to repo
